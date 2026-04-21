@@ -154,6 +154,4 @@ contact-book/
 
 ---
 
-## License
 
-This project is released under the [MIT License](https://opensource.org/licenses/MIT). Feel free to use, modify, and distribute it.
